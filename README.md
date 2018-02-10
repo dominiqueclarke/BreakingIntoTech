@@ -10,5 +10,7 @@ Considering a switch to the tech industry, but don't know where to start? Join W
 
 By the end of this course, you'll know concrete steps you can take towards starting a new career in tech.
 
+See the slides at: https://dominiqueclarke.github.io/BreakingIntoTech/slides.pdf
+
 ## About The Teacher:
 Dominique Clarke started her journey towards a career in tech nearly 3 years ago and now works as a professional Front End Developer for Alkami Technology. She chose a mixture of the self-taught and bootcamp route, learning HTML and CSS on her own for a year and a half before becoming a student at Dev Mountain. While pursuing her own career in tech, she also guided others towards tech careers as a Co-Organizer for Girl Develop It Wilmington and the Community Engagement Manager for the Java bootcamp Zip Code Wilmington.
